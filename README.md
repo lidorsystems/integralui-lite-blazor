@@ -75,10 +75,10 @@ Library files are located in /bin folder of product's installation directory.
 
 Now you can use all components available in IntegralUI Lite library. There are few namespaces that you can import:
 
-IntegralUI.Lite.Components__
-IntegralUI.Lite.Events__
-IntegralUI.Lite.Interfaces__
-IntegralUI.Lite.Services__
+IntegralUI.Lite.Components<br/>
+IntegralUI.Lite.Events<br/>
+IntegralUI.Lite.Interfaces<br/>
+IntegralUI.Lite.Services<br/>
 
 All components are located under IntegralUI.Lite.Components namespace.
 
