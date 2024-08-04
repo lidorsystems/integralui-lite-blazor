@@ -24,7 +24,7 @@ Here is a brief overview of what is included:
 
 [List](https://www.lidorsystems.com/products/integralui/blazor/samples/list/overview) - Displays a simple list of items with content in custom layouts
 
-[PopOver](https://www.lidorsystems.com/products/integralui/blazor/samples/checkbox/overview) - Displays custom HTML content over specified element
+[PopOver](https://www.lidorsystems.com/products/integralui/blazor/samples/popover/overview) - Displays custom HTML content over specified element
 
 [RadioButton](https://www.lidorsystems.com/products/integralui/blazor/samples/radiobutton/overview) - Represents a radio button
 
