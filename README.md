@@ -60,21 +60,29 @@ npm i integralui-lite-blazor
 
 Library files are located in /bin folder of product's installation directory.
 
-
 1. Copy/Paste the NuGet package from /bin folder to a referencing folder (the folder from where you are referencing external or vendor libraries) in your project. The /resources folder is optional.
 
 2. Install the NuGet package for IntegralUI Lite library from a local folder.
 
-a. Open your project
-b. From Solution Explorer right-click on Dependencies option and select "Manage NuGet Packages..."
-c. In top-right corner click on Tools icon to create new package source
-d. Create a new package source by licking on + tool button
-e. Under Name field enter IntegralUI Lite and under Source field click on browse button to select your referencing folder and click Update button and press OK
-f. The referencing folder should contain the NuGet package for IntegralUI Lite library, the one copied from /bin folder (see first line above)
-g. In NuGet package manager select the IntegralUI Lite package source from the dropdown list (from top-right corner)
-h. Select the Browse tab to see all available IntegraUI versions
-i. Install the latest version
-j. Close the NuGet package manager
+3. Open your project
+
+4. From Solution Explorer right-click on Dependencies option and select "Manage NuGet Packages..."
+
+5. In top-right corner click on Tools icon to create new package source
+
+6. Create a new package source by licking on + tool button
+
+7. Under Name field enter IntegralUI Lite and under Source field click on browse button to select your referencing folder and click Update button and press OK
+
+8. The referencing folder should contain the NuGet package for IntegralUI Lite library, the one copied from /bin folder (see first line above)
+
+9. In NuGet package manager select the IntegralUI Lite package source from the dropdown list (from top-right corner)
+
+10. Select the Browse tab to see all available IntegraUI versions
+
+11. Install the latest version
+
+12. Close the NuGet package manager
 
 Now you can use all components available in IntegralUI Lite library. There are few namespaces that you can import:
 
@@ -88,19 +96,19 @@ All components are located under IntegralUI.Lite.Components namespace.
 
 ### How to Use IntegralUI components in Blazor Apps
 
-At first, you need to install the IntegralUI Lite for Blazor library on your side and add a reference to a component you want to use.
+At first, you need to install the IntegralUI Lite for Blazor library on your side and add a reference to a component you want to use (see above steps).
 
 In case of IntegralUI List component, you need to do the following:
 
-Open a Blazor page in your project
-Add code line that will import the IntegralUI Lite components
-Place the List component using the IntegralUIList tag
-Specify the generic TItem type that you will use as a data model
-Set the Items property to connect the List to your data source
-(optional) Define the template that will be used to create the content for items using the ItemTemplate
-(optional) Add custom HTML elements or other Blazor components inside the template
-(optional) Add other features like sorting, filtering etc. require corresponding property or event to be set
-(optional) Create a reference to the component using the @ref attribute, to call public methods
+1. Open a Blazor page in your project
+2. Add code line that will import the IntegralUI Lite components
+3. Place the List component using the IntegralUIList tag
+4. Specify the generic TItem type that you will use as a data model
+5. Set the Items property to connect the List to your data source
+6. (optional) Define the template that will be used to create the content for items using the ItemTemplate
+7. (optional) Add custom HTML elements or other Blazor components inside the template
+8. (optional) Add other features like sorting, filtering etc. require corresponding property or event to be set
+9. (optional) Create a reference to the component using the @ref attribute, to call public methods
 
 For example:
 
