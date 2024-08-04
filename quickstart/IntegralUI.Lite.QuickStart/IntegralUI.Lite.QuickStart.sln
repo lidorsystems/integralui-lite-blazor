@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegralUI.Lite.QuickStart", "IntegralUI.Lite.QuickStart\IntegralUI.Lite.QuickStart.csproj", "{711186A3-4131-47D4-BD87-86D39308C621}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{711186A3-4131-47D4-BD87-86D39308C621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{711186A3-4131-47D4-BD87-86D39308C621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{711186A3-4131-47D4-BD87-86D39308C621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{711186A3-4131-47D4-BD87-86D39308C621}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C3B10E-2DC9-4A90-9152-055405A7C883}
+	EndGlobalSection
+EndGlobal
