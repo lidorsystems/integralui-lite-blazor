@@ -14,7 +14,9 @@
     "integralui",
     "ui",
     "blazor",
-    ".net"
+    "net",
+    "visual",
+    "studio"
   ],
   "author": "Lidor Systems",
   "license": "SEE LICENSE in LICENSE.md",
