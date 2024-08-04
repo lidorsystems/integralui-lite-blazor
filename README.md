@@ -1,4 +1,4 @@
-# IntegralUI Lite for Blazor, v24.1
+# IntegralUI Lite for Blazor, v24.1 
 
 IntegralUI Lite for Blazor is a FREE UI library of advanced, customizable and high performance components for Blazor .NET. 
 
