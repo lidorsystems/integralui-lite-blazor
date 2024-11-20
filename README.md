@@ -6,7 +6,7 @@ IntegralUI Lite for Blazor is a FREE UI library of advanced, customizable and hi
 
 ![IntegralUI Lite for Blazor 24.3](https://www.lidorsystems.com/products/integralui/blazor/lite/integralui-lite-blazor-24.1.0.png)
 
-<b>Note</b> This library is a lite version of the full product package: <a href="https://github.com/lidorsystems/integralui-blazor/">IntegralUI for Blazor</a>. Some of the more advanced component features are excluded in this version.
+<b>Note</b> This library is a lite version of the full product package: [IntegralUI for Blazor](https://github.com/lidorsystems/integralui-blazor/). Some of the more advanced component features are excluded in this version.
 
 Here is a brief overview of what is included:
 
