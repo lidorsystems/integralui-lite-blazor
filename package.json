@@ -1,6 +1,6 @@
 {
   "name": "integralui-lite-blazor",
-  "version": "24.1.0",
+  "version": "24.3.0",
   "description": "IntegralUI Lite for Blazor is a FREE UI library of advanced, customizable and high performance components for Blazor .NET.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,7 +21,7 @@
   ],
   "author": "Lidor Systems",
   "license": "SEE LICENSE in LICENSE.md",
-  "homepage": "https://github.com/lidorsystems/integralui-lite-blazor",
+  "homepage": "https://www.lidorsystems.com/products/integralui/blazor/",
   "bugs": {
     "url": "https://github.com/lidorsystems/integralui-lite-blazor/issues"
   }

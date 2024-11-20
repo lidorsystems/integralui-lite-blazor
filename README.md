@@ -1,10 +1,10 @@
-# IntegralUI Lite for Blazor, v24.1
+# IntegralUI Lite for Blazor, v24.3
 
 IntegralUI Lite for Blazor is a FREE UI library of advanced, customizable and high performance components for Blazor .NET. 
 
 <b>Note</b> FREE for commercial use.
 
-![IntegralUI Lite for Blazor 24.1](https://www.lidorsystems.com/products/integralui/blazor/lite/integralui-lite-blazor-24.1.0.png)
+![IntegralUI Lite for Blazor 24.3](https://www.lidorsystems.com/products/integralui/blazor/lite/integralui-lite-blazor-24.1.0.png)
 
 <b>Note</b> This library is a lite version of the full product package: <a href="https://www.lidorsystems.com/products/integralui/blazor/">IntegralUI for Blazor</a>. Some of the more advanced component features are excluded in this version.
 
@@ -15,6 +15,8 @@ Here is a brief overview of what is included:
 [Button](https://www.lidorsystems.com/products/integralui/blazor/samples/button/overview) - Represents a button
 
 [ButtonGroup](https://www.lidorsystems.com/products/integralui/blazor/samples/buttongroup/overview) - Manages actions of multiple buttons arranged in group
+
+[Calendar](https://www.lidorsystems.com/products/integralui/blazor/samples/calendar/overview) - Enables the user to select a date using a visual monthly calendar display
 
 [Card](https://www.lidorsystems.com/products/integralui/blazor/samples/card/overview) - A flip card with two sides
 
@@ -75,10 +77,12 @@ Library files are located in /bin folder of product's installation directory.
 
 Now you can use all components available in IntegralUI Lite library. There are few namespaces that you can import:
 
-IntegralUI.Lite.Components<br/>
-IntegralUI.Lite.Events<br/>
-IntegralUI.Lite.Interfaces<br/>
-IntegralUI.Lite.Services<br/>
+IntegralUI.Components
+IntegralUI.Data
+IntegralUI.Events
+IntegralUI.Interfaces
+IntegralUI.Services
+IntegralUI.Styling
 
 All components are located under IntegralUI.Lite.Components namespace.
 

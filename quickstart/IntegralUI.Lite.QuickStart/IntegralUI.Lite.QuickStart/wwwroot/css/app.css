@@ -221,7 +221,7 @@ h1, h2, h3 {
 
 .navigator-tree {
     display: inline-block;
-    height: 100vh;
+    height: calc(100vh - 61px);
     position: fixed;
     top: 62px;
     vertical-align: top;
@@ -230,6 +230,7 @@ h1, h2, h3 {
 [id="nav-tree"] {
     --iui-treelist-height: 100%;
     --iui-treelist-width: 300px;
+    --iui-treelist-border-width: 0 1px 0 0;
 }
 
 .code-name {
