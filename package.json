@@ -1,6 +1,6 @@
 {
   "name": "integralui-lite-blazor",
-  "version": "24.3.0",
+  "version": "24.3.1",
   "description": "IntegralUI Lite for Blazor is a FREE UI library of advanced, customizable and high performance components for Blazor .NET.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
